@@ -1,0 +1,12 @@
+h1 {
+	text-transform: uppercase;
+	font-weight: 300;
+	margin: 100px auto;
+}
+body {
+	text-align: center;
+}
+.img {
+	height: 100px;
+	margin-bottom: 20px;
+}
