@@ -1,0 +1,19 @@
+* {
+	box-sizing: border-box;
+}
+
+.box {
+	background-color: #fff;
+	height: 400px;
+	width: 300px;
+	position: absolute;
+	left: 50%;
+ margin-left: -150px;
+ top: 50%;
+ margin-top: -200px;
+ border: solid 2px #C0C0C0;
+}
+
+.mini-box {
+	margin: 20px 30px;
+}
