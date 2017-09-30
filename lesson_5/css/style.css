@@ -1,0 +1,31 @@
+h1 {
+	text-align: center;
+}
+
+html {
+	background-color: #D7F5E8;
+}
+
+#a1 {
+	font-weight: 700;
+}
+
+#a2 {
+	font-style: italic;
+}
+
+#a3 {
+	text-decoration: underline;
+}
+
+#a4 {
+	text-decoration: line-through;
+}
+
+.border {
+	border-style: groove;
+	border-color: #ff7068;
+	display: inline-block;
+	margin: 20px;
+	margin-left: 585px;
+}
