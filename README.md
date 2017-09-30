@@ -6,4 +6,6 @@
 
 [Урок 5](https://valera253.github.io/lesson_5 "Описание") - Сайт с 4 урока с применением стилей
 
-[Урок 6](https://valera253.github.io/lesson_6 "Описание") - Позиционирование
+[Урок 6](https://valera253.github.io/lesson_6 "Описание") - Позиционирование 1
+
+[Урок 6.1](https://valera253.github.io/lesson_6.1 "Описание") - Позиционирование 2
