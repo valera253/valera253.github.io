@@ -11,3 +11,5 @@
 [Урок 6.1](https://valera253.github.io/lesson_6.1 "Описание") - Позиционирование 2
 
 [Урок 7](https://valera253.github.io/lesson_7 "Описание") - Первый сверстанный макет
+
+[Урок 8](https://valera253.github.io/lesson_8 "Описание") - Знакомство с Bootstrap
