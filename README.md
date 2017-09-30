@@ -9,3 +9,5 @@
 [Урок 6](https://valera253.github.io/lesson_6 "Описание") - Позиционирование 1
 
 [Урок 6.1](https://valera253.github.io/lesson_6.1 "Описание") - Позиционирование 2
+
+[Урок 7](https://valera253.github.io/lesson_7 "Описание") - Первый сверстанный макет
