@@ -17,3 +17,5 @@
 [Урок 9](https://valera253.github.io/lesson_9 "Описание") - Сайт с урока 7 с применением Bootstrap
 
 [Урок 10](https://valera253.github.io/lesson_10 "Описание") - Знакомство с LESS
+
+[Урок 13](https://valera253.github.io/lesson_13 "Описание") - Адаптивная верстка
