@@ -19,3 +19,5 @@
 [Урок 10](https://valera253.github.io/lesson_10 "Описание") - Знакомство с LESS
 
 [Урок 13](https://valera253.github.io/lesson_13 "Описание") - Адаптивная верстка
+
+[Практика 1](https://valera253.github.io/practice_1 "Описание") - Верстка шапки сайта
