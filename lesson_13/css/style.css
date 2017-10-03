@@ -1,7 +1,7 @@
 .container {
 	width: 260px;
 	height: 370px;
-	margin: 98px auto;
+	margin: 99px auto;
 	border: 1px solid #cfdede;
 	padding: 0 30px;
 }
@@ -21,7 +21,7 @@
 }
 input {
 	padding: 10px 12px;
-	height: 8px;
+	height: 10px;
 	width: 234px;
 	font-style: italic;
 	border: 1px solid #cfdede;
