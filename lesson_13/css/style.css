@@ -2,7 +2,7 @@
 	width: 260px;
 	height: 370px;
 	margin: 98px auto;
-	border: 2px solid;
+	border: 1px solid #cfdede;
 	padding: 0 30px;
 }
 .form-title {
@@ -23,8 +23,9 @@ input {
 	padding: 10px 12px;
 	height: 8px;
 	width: 234px;
-	background-image: #ebf4f4;
 	font-style: italic;
+	border: 1px solid #cfdede;
+	border-radius: 2px;
 }
 body {
 	font-family: "Tahoma", sans-serif;
@@ -49,4 +50,5 @@ button {
  height: 45px;
  width: 260px;
  font-size: 14px;
+ border-radius: 4px;
 }
