@@ -37,6 +37,7 @@ a:focus {
   color: #ffffff;
   text-transform: uppercase;
   border: none;
+  -webkit-transition: all 0.2s;
   transition: all 0.2s;
 }
 .button:hover {
@@ -126,7 +127,8 @@ section {
 .main-form label {
   position: absolute;
   left: 50%;
-  transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
+          transform: translateX(-50%) translateY(-50%);
   padding: 0.5rem;
   font-size: 1.3rem;
   background-color: #ffffff;
@@ -192,7 +194,8 @@ section {
 }
 .arrow {
   top: 50%;
-  transform: scaleY(-50%);
+  -webkit-transform: scaleY(-50%);
+          transform: scaleY(-50%);
   position: absolute;
   z-index: 99;
   width: 2rem;
