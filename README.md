@@ -33,3 +33,5 @@
 [Урок 16](https://valera253.github.io/lesson_16 "Описание") - Слайдер
 
 [Практика 4](https://valera253.github.io/practice_4 "Описание") - Блок с преимуществами
+
+[Урок 17](https://valera253.github.io/lesson_17 "Описание") - Модальные окна
