@@ -35,3 +35,5 @@
 [Практика 4](https://valera253.github.io/practice_4 "Описание") - Блок с преимуществами
 
 [Урок 17](https://valera253.github.io/lesson_17 "Описание") - Модальные окна
+
+[Практика 5](https://valera253.github.io/practice_5 "Описание") - Верстка всплывающих окон на сайте
