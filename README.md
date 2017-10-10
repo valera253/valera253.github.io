@@ -39,3 +39,5 @@
 [Практика 5](https://valera253.github.io/practice_5 "Описание") - Верстка всплывающих окон на сайте
 
 [Урок 18.1](https://valera253.github.io/lesson_18_1 "Описание") - Табы
+
+[Урок 18.2](https://valera253.github.io/lesson_18_2 "Описание") - Аккордеон
