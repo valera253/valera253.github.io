@@ -1,0 +1,116 @@
+@font-face {
+  font-family: 'Myriad Pro';
+  src: url('../fonts/MyriadPro-Regular.eot');
+  src: url('../fonts/MyriadPro-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/MyriadPro-Regular.woff2') format('woff2'),
+    url('../fonts/MyriadPro-Regular.woff') format('woff'),
+    url('../fonts/MyriadPro-Regular.ttf') format('truetype'),
+    url('../fonts/MyriadPro-Regular.svg#MyriadPro-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'Myriad Pro';
+  background: url(../img/bg.jpg) no-repeat;
+  background-size: cover;
+}
+
+a {
+	margin-left: 1rem;
+}
+
+.nav {
+  margin-left: 25px;
+  border-bottom: none;
+  font-size: 25px;
+  height: 35px;
+}
+
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+  background-color: #03a0d2;
+  color: white;
+}
+
+.nav>li>a {
+  padding: 0 25px 5px 25px;
+  color: black;
+  border-radius: 4px;
+  z-index: 0;
+  background-color: white;
+}
+
+.tab-pane {
+  position: relative;
+  width: 55%;
+  padding: 20px;
+  background-color: #03a0d2;
+  border-radius: 5px;
+  z-index: 1;
+}
+
+.form-box {
+  background-color: #000000;
+  border-radius: 5px;
+  padding: 70px 0 40px 0;
+}
+
+.text-input {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 30px;
+  width: 85%;
+  height: 60px;
+  font-size: 24px;
+  background-color: #1e1d1d;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 1px 20px;
+}
+
+input::placeholder {
+  color: white;
+}
+
+.second-field {
+  margin-bottom: 20px;
+}
+
+.pass {
+  display: block;
+  margin-left: 65px;
+  color: #c51f03;
+}
+
+.pass:active, .pass:focus, .pass:hover {
+  text-decoration: none;
+}
+
+.pass:hover {
+  color: #c51f03;
+}
+
+input[type=checkbox] {
+  display: inline-block;
+  margin: 60px 0 0 65px;
+}
+
+label {
+  font-size: 15px;
+}
+
+.form-btn {
+  position: absolute;
+  right: 0;
+  transform: translate(20px, 50px);
+  color: white;
+  border: none;
+  border-radius: 0;
+  font-size: 24px;
+  padding: 5px 41px 5px 27px;
+  background: #810601; /* Old browsers */
+  background: -moz-linear-gradient(to right, #810601 0%, #ba1b02 50%, #7f0501 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(to right, #810601 0%,#ba1b02 50%,#7f0501 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to right, #810601 0%,#ba1b02 50%,#7f0501 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}

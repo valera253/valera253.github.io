@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Табы</title>
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+
+  <body>
+
+    <div class="container">
+      <div>       
+        <ul class="nav nav-tabs">
+          <li class="active">
+            <a href="#login" data-toggle="tab">Вход</a>
+          </li>
+          <li>
+            <a href="#reg" data-toggle="tab">Регистрация</a>
+          </li>
+          <li>
+        </ul>
+          <div class="tab-content">
+            <div class="tab-pane active" id="enter">          
+              <div class="form-box">
+                <form action="#">
+                  <input class="text-input" type="text" placeholder="Ваше имя">
+                  <input class="text-input second-field" type="text" placeholder="Пароль">
+                  <a class="pass" href="#">Забыли пароль?</a>
+                  <input id="reminder" class="checkbox" type="checkbox">
+                  <label for="reminder">Напомнить мне</label>
+                  <button class="form-btn">Войти</button>
+                </form>
+              </div>
+            </div>
+          <div class="tab-pane " id="reg">
+            <p>Регистрация</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="http://getbootstrap.com/assets/js/ie10-viewport-bug-workaround.js"></script>
+  </body>
+</html>
