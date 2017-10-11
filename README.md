@@ -41,3 +41,5 @@
 [Урок 18.1](https://valera253.github.io/lesson_18_1 "Описание") - Табы
 
 [Урок 18.2](https://valera253.github.io/lesson_18_2 "Описание") - Аккордеон
+
+[Практика 6](https://valera253.github.io/practice_6 "Описание") - Верстка блока с ценами
