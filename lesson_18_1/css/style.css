@@ -30,6 +30,7 @@ a {
 .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
   background-color: #03a0d2;
   color: white;
+  border: none;
 }
 
 .nav>li>a {
