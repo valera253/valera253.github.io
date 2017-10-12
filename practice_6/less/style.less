@@ -74,7 +74,6 @@ section {
 .section-header {
 	&_light {
 		color: @light;
-		margin-top: 0;
 	}
 	h2 {
 	 .bold();
@@ -261,19 +260,19 @@ section {
 	}
 /* Карточки с тарифами */
 	&-block {
-			padding: 1rem 2.5rem 4rem;
+			padding: 1rem 3rem 4rem;
 			min-height: 50rem;
 			text-align: center;
 			background-color: @light;
 			box-shadow: 7px 12px 21px 0 rgba(0, 0, 0, 0.17);
 			h4 {
-				margin: 3.5rem auto;
+				margin: 3rem 0;
 				font-size: 1.9rem;
 				.bold();
 			}
 			img {
 				display: inline-block;
-				margin-bottom: 3rem;
+				margin-bottom: 2rem;
 				width: 100%;
 				max-width: 30rem;
 			}
@@ -285,48 +284,27 @@ section {
 			.bold();
 		}
 		&-list {
-			min-height: 15rem;
-		}
-		&-list,
-		&-list-xs-collapse {
-			padding: 0;
-			font-size: 1.6rem;
-			line-height: 1.6;
+			padding: 0rem;
 			list-style: none;
+			min-height: 20rem;
+			font-size: 1.6rem;
+			line-height: 1.6rem;
 			li {
-				&::before {
+				&:before {
 					content: "";
 					display: inline-block;
-					width: 1.2rem;
-					height: 0.9rem;
 					margin-right: 1rem;
-					background: url(../img/check.svg) no-repeat;
+					padding-bottom: 2em;
+					width: 1.4rem;
+					height: 1.4rem;
+					margin-right: 1rem;
+					background: url(../img/check.svg) no-repeat center;
 					background-size: 100%;
 					vertical-align: middle;
-				}
-			}
-			&-xs {
-				display: none;
-				margin-bottom: 2.5rem;
-				a, a:hover, a:focus, a:visited {
-					color: #006b00;
-					.reg();
-					font-size: 1.8rem;
-					text-decoration: none;
-					border-bottom: 2px solid #bfdabf;
-				}
-				&-body {
-					background: none;
-					border: none;
-					box-shadow: none;
-				}
 			}
 		}
-		&-wrap {
-			display: none;
-		}
-	}
-
+ }
+}
 /* Оформление модальных окон */
 .popup {
 	display: none;
@@ -369,6 +347,7 @@ section {
 		.bold();
 	}
 }
+
 
 @media (max-width: 991px) {
 	.phone-block{
