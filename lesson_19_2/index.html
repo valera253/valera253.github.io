@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Аккордеон анимация</title>
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+
+  <body>
+
+    <div class="container">
+
+
+          <div class="main-section">
+            <div class="header wow tada">
+              <h1>Ответы на вопросы</h1>
+              <h2>которые нам задают чаще всего</h2>
+            </div>
+            <div class="line"></div>
+            <div class="panel-group questionnaire wow bounceInUp" id="accordion" role="tablist" aria-multiselectable="true">
+              <div class="panel panel-default">
+                <div class="panel-heading" role="tab" id="QuestionOne">
+                  <h4 class="panel-title">
+                    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#AnswerOne" aria-expanded="true" aria-controls="AnswerOne">
+                      Сколько времени может занять быстрая уборка 3-х комнатной квартиры?
+                    </a>
+                  </h4>
+                </div>
+                <div id="AnswerOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="QuestionOne">
+                  <div class="panel-body">
+                    Быстрая уборка 3 комнатной квартиры, которая включает в себя мытье полов, протирку пыли и зеркал занимает около 3 часов. Но, конечно, многое зависит от степени загрязненности и заставленности комнат.
+                  </div>
+                </div>
+              </div>
+              <div class="panel panel-default">
+                <div class="panel-heading" role="tab" id="QuestionTwo">
+                  <h4 class="panel-title">
+                    <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#AnswerTwo" aria-expanded="false" aria-controls="AnswerTwo">
+                      Сколько времени может занять быстрая уборка 3-х комнатной квартиры?
+                    </a>
+                  </h4>
+                </div>
+                <div id="AnswerTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="QuestionTwo">
+                  <div class="panel-body">
+                    Быстрая уборка 3 комнатной квартиры, которая включает в себя мытье полов, протирку пыли и зеркал занимает около 3 часов. Но, конечно, многое зависит от степени загрязненности и заставленности комнат.
+                  </div>
+                </div>
+              </div>
+              <div class="panel panel-default">
+                <div class="panel-heading" role="tab" id="QuestionThree">
+                  <h4 class="panel-title">
+                    <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#AnswerThree" aria-expanded="false" aria-controls="AnswerThree">
+                      Сколько времени может занять быстрая уборка 3-х комнатной квартиры?</a>
+                  </h4>
+                </div>
+                <div id="AnswerThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="QuestionThree">
+                  <div class="panel-body">
+                    Быстрая уборка 3 комнатной квартиры, которая включает в себя мытье полов, протирку пыли и зеркал занимает около 3 часов. Но, конечно, многое зависит от степени загрязненности и заставленности комнат.
+                  </div>
+                </div>
+              </div>
+              <div class="panel panel-default">
+                <div class="panel-heading" role="tab" id="QuestionFour">
+                  <h4 class="panel-title">
+                    <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#AnswerFour" aria-expanded="false" aria-controls="AnswerFour">
+                      Сколько времени может занять быстрая уборка 3-х комнатной квартиры?
+                    </a>
+                  </h4>
+                </div>
+                <div id="AnswerFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="QuestionFour">
+                  <div class="panel-body">
+                    Быстрая уборка 3 комнатной квартиры, которая включает в себя мытье полов, протирку пыли и зеркал занимает около 3 часов. Но, конечно, многое зависит от степени загрязненности и заставленности комнат.
+                  </div>
+                </div>
+              </div>
+              <div class="panel panel-default">
+                <div class="panel-heading" role="tab" id="QuestionFive">
+                  <h4 class="panel-title">
+                    <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#AnswerFive" aria-expanded="false" aria-controls="AnswerFive">
+                      Сколько времени может занять быстрая уборка 3-х комнатной квартиры?
+                    </a>
+                  </h4>
+                </div>
+                <div id="AnswerFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="QuestionFive">
+                  <div class="panel-body">
+                    Быстрая уборка 3 комнатной квартиры, которая включает в себя мытье полов, протирку пыли и зеркал занимает около 3 часов. Но, конечно, многое зависит от степени загрязненности и заставленности комнат.
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+    </div>
+    
+    <script src="js/wow.min.js"></script>
+    <script>
+      var wow = new WOW
+      wow.init();
+    </script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <script src="http://getbootstrap.com/assets/js/ie10-viewport-bug-workaround.js"></script>
+  </body>
+</html>
