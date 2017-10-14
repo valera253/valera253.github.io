@@ -49,3 +49,5 @@
 [Урок 19.2](https://valera253.github.io/lesson_19_2 "Описание") - Аккордеон с анимацией
 
 [Практика 7](https://valera253.github.io/practice_7 "Описание") - Верстка блока с отзывами
+
+[Урок 20](https://valera253.github.io/lesson_20 "Описание") - Видео-фон
