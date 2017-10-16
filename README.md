@@ -52,6 +52,8 @@
 
 [Урок 20](https://valera253.github.io/lesson_20 "Описание") - Видео-фон
 
+[Практика 8](https://valera253.github.io/practice_8 "Описание") - Доверстали блок с отзывами
+
 [Урок 21](https://valera253.github.io/lesson_21 "Описание") - Parallax
 
 [Урок 22](https://valera253.github.io/lesson_22 "Описание") - Карты
