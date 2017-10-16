@@ -51,3 +51,5 @@
 [Практика 7](https://valera253.github.io/practice_7 "Описание") - Верстка блока с отзывами
 
 [Урок 20](https://valera253.github.io/lesson_20 "Описание") - Видео-фон
+
+[Урок 21](https://valera253.github.io/lesson_21 "Описание") - Parallax
