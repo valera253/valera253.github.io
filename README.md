@@ -56,4 +56,6 @@
 
 [Урок 21](https://valera253.github.io/lesson_21 "Описание") - Parallax
 
+[Практика 9](https://valera253.github.io/practice_9 "Описание") - Верстаем схему работы и все включено
+
 [Урок 22](https://valera253.github.io/lesson_22 "Описание") - Карты
